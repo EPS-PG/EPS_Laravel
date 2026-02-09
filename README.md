@@ -1,4 +1,4 @@
-# EPSPG Laravel
+# EPS Laravel
 
 Official Laravel package for integrating **EPSPG (Easy Payment System)** Payment Gateway.
 
